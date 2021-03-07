@@ -2,7 +2,6 @@ package guru.springframework.repositories;
 
 import guru.springframework.domain.Category;
 import org.springframework.data.repository.CrudRepository;
-import reactor.core.publisher.Mono;
 
 import java.util.Optional;
 
