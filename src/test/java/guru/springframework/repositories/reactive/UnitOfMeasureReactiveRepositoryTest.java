@@ -1,7 +1,6 @@
 package guru.springframework.repositories.reactive;
 
 import guru.springframework.domain.UnitOfMeasure;
-import guru.springframework.repositories.reavctive.UnitOfMeasureReactiveRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
